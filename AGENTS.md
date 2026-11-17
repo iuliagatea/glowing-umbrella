@@ -157,9 +157,9 @@ This project has domain-specific skills available in `**/skills/**`. You MUST ac
 
 === project overview ===
 
-# Digit
+# GlowingUmbrella
 
-Digit is a Laravel 13 + Filament 4 site for a sales-and-repairs business:
+GlowingUmbrella is a Laravel 13 + Filament 4 site for a sales-and-repairs business:
 
 - **Public site** (`routes/web.php`, `app/Http/Controllers`): home page with an
   announcements carousel, services & pricing (`/prices`), about page, articles
