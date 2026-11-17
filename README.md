@@ -1,6 +1,6 @@
-# Digit
+# GlowingUmbrella
 
-Digit is a Laravel + Filament site for a sales-and-repairs business. The public site
+GlowingUmbrella is a Laravel + Filament site for a sales-and-repairs business. The public site
 showcases announcements, services and pricing, and articles, and takes contact form
 submissions; a Filament admin panel at `/admin` manages all of that content.
 
